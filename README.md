@@ -1,6 +1,6 @@
 # Example DDPG implementation with [ReLAx](https://github.com/nslyubaykin/relax)
 
-This repository contains an [implementation]() of deep deterministic policy gradient (DDPG) with ReLAx.
+This repository contains an [implementation](https://github.com/nslyubaykin/relax_ddpg_example/blob/master/ddpg_tutorial.ipynb) of deep deterministic policy gradient (DDPG) with ReLAx.
 
 DDPG actor was trained on InvertedPendulum-v2 Mujoco Gym environment for 100k env-steps. 
 
